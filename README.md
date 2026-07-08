@@ -4,5 +4,7 @@ aber da allgemeine rechner netter sind, haben wir jetzt einen rechner gebastelt,
 
 ## installation
 mit
+
 pip install -r requirements.txt
+
 die requirements installieren, dann loslegen
